@@ -1,0 +1,11 @@
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\bin\Debug\comController.exe.config
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\bin\Debug\comController.exe
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\bin\Debug\comController.pdb
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.csproj.AssemblyReference.cache
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.csproj.SuggestedBindingRedirects.cache
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.Form1.resources
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.Properties.Resources.resources
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.csproj.GenerateResource.cache
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.csproj.CoreCompileInputs.cache
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.exe
+F:\UnivercityLessons\Y_J_keshe\mouseController\comController\obj\Debug\comController.pdb
